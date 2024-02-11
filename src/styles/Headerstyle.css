@@ -1,0 +1,22 @@
+.navigation-menu {
+    @apply flex items-center justify-center;
+    list-style: none;
+  }
+  .navigation-menu li {
+    @apply mx-5 my-0;
+  }
+  .navigation-menu li a {
+    @apply no-underline text-[black];
+  }
+  /* Mobile view */
+  .mobile-navigation {
+    @apply p-2;
+    list-style: none;
+  }
+  .mobile-navigation li {
+    @apply mt-5;
+  }
+  .mobile-navigation li a {
+    @apply no-underline text-[1.4_rem] text-[black];
+  }
+  

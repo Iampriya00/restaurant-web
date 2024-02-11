@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ca2fd8e.css",
+    "main.js": "/static/js/main.ebe7e533.js",
+    "static/js/787.5ef77054.chunk.js": "/static/js/787.5ef77054.chunk.js",
+    "static/media/Banner1.jpg": "/static/media/Banner1.18ac4651b96344c3ee10.jpg",
+    "static/media/masala.jpg": "/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/Banner3.jpg": "/static/media/Banner3.285d76875569e79257ac.jpg",
+    "static/media/chhola.jpg": "/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/Banner2.jpg": "/static/media/Banner2.b08bf90f3563aa5effd3.jpg",
+    "static/media/paneer.jpg": "/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/index.html",
+    "main.8ca2fd8e.css.map": "/static/css/main.8ca2fd8e.css.map",
+    "main.ebe7e533.js.map": "/static/js/main.ebe7e533.js.map",
+    "787.5ef77054.chunk.js.map": "/static/js/787.5ef77054.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ca2fd8e.css",
+    "static/js/main.ebe7e533.js"
+  ]
+}
